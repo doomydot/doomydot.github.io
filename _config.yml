@@ -14,7 +14,7 @@ timezone: Europe/Stockholm
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: doomy.gg # the main title
+title: "doomy.gg" # the main title
 
 tagline: /ᐠﹷ ᆺ ﹷ ᐟ\ﾉ # it will display as the sub-title
 
